@@ -1,9 +1,17 @@
 {
-	"id": 1,
-	"name":"Ecotech",
-	"location":{
-		"latitude":18.4772411,
-		"longitude":73.9006484,
-		"formattedAddress":"Sunshree Woods Co-operative Society Limited, NIBM Post Office Rd, Clover Hills, Kondhwa, Pune, Maharashtra 411048"
-	}
+  "description": "",
+  "location": {
+    "formattedAddress": "Ecotech IT Solutions, NIBM Post Office Road, Clover Hills, Kondhwa, Pune, Maharashtra, India",
+    "latitude": 18.477236,
+    "longitude": 73.9028371
+  },
+  "mail": "",
+  "name": "Office",
+  "openingHours": "",
+  "phone": "",
+  "rsvpLink": "",
+  "source": "",
+  "sourceId": "",
+  "timeCreated": "2021-01-05T10:53:45+00:00",
+  "timeUpdated": "2021-01-05T10:53:45+00:00"
 }
