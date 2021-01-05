@@ -1,17 +1,34 @@
+[{
+	"description": "",
+	"location": {
+		"formattedAddress": "Ecotech IT Solutions, NIBM Post Office Road, Clover Hills, Kondhwa, Pune, Maharashtra, India",
+		"latitude": 18.477236,
+		"longitude": 73.9028371
+	},
+	"mail": "",
+	"name": "Office",
+	"openingHours": "",
+	"phone": "",
+	"rsvpLink": "",
+	"source": "",
+	"sourceId": "",
+	"timeCreated": "2021-01-05T10:53:45+00:00",
+	"timeUpdated": "2021-01-05T10:53:45+00:00"
+},
 {
-  "description": "",
-  "location": {
-    "formattedAddress": "Ecotech IT Solutions, NIBM Post Office Road, Clover Hills, Kondhwa, Pune, Maharashtra, India",
-    "latitude": 18.477236,
-    "longitude": 73.9028371
-  },
-  "mail": "",
-  "name": "Office",
-  "openingHours": "",
-  "phone": "",
-  "rsvpLink": "",
-  "source": "",
-  "sourceId": "",
-  "timeCreated": "2021-01-05T10:53:45+00:00",
-  "timeUpdated": "2021-01-05T10:53:45+00:00"
-}
+	"description": "",
+	"location": {
+		"formattedAddress": "Pune Railway Station, Sadhu Vaswani Road, Koregaon Park, Pune, Maharashtra, India",
+		"latitude": 18.5288183,
+		"longitude": 73.87443669999999
+	},
+	"mail": "",
+	"name": "Railway Station",
+	"openingHours": "",
+	"phone": "",
+	"rsvpLink": "",
+	"source": "",
+	"sourceId": "",
+	"timeCreated": "2021-01-05T10:53:45+00:00",
+	"timeUpdated": "2021-01-05T10:53:45+00:00"
+}]
