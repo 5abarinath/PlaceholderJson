@@ -1,5 +1,5 @@
 {
-	"family": {[
+	[
 		{
 			"name":"Sabari",
 			"userId": 1,
@@ -10,8 +10,8 @@
 			"userId": 2,
 			"contact": "9876543210"
 		}
-	]},
-	"friends": {[
+	],
+	[
 		{
 			"name": "Sughosh",
 			"userId": 3,
@@ -22,5 +22,5 @@
 			"userId": 4,
 			"contact": "8901256347"
 		},
-	]}
+	]
 }
