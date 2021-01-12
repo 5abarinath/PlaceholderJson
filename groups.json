@@ -1,0 +1,26 @@
+{
+	"family": [
+		{
+			"name":"Sabari",
+			"userId": 1,
+			"contact": "9405296837",	
+		},
+		{
+			"name": "Sunil",
+			"userId": 2,
+			"contact": "9876543210"
+		}
+	],
+	"friends": [
+		{
+			"name": "Sughosh",
+			"userId": 3,
+			"contact": "8907654321"
+		},
+		{
+			"name": "Arjun",
+			"userId": 4,
+			"contact": "8901256347"
+		},
+	]
+}
