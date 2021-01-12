@@ -1,26 +1,34 @@
 [
-	[
-		{
-			"name":"Sabari",
-			"userId": 1,
-			"contact": "9405296837",	
-		},
-		{
-			"name": "Sunil",
-			"userId": 2,
-			"contact": "9876543210"
-		}
-	],
-	[
-		{
-			"name": "Sughosh",
-			"userId": 3,
-			"contact": "8907654321"
-		},
-		{
-			"name": "Arjun",
-			"userId": 4,
-			"contact": "8901256347"
-		}
-	]
+	{
+		"groupName": "family",
+		"groupId": "1",
+		"members": [
+			{
+				"name":"Sabari",
+				"userId": 1,
+				"contact": "9405296837",	
+			},
+			{
+				"name": "Sunil",
+				"userId": 2,
+				"contact": "9876543210"
+			}
+		]
+	},
+	{
+		"groupName": "friends",
+		"groupId": "2",
+		"members": [
+			{
+				"name": "Sughosh",
+				"userId": 3,
+				"contact": "8907654321"
+			},
+			{
+				"name": "Arjun",
+				"userId": 4,
+				"contact": "8901256347"
+			}
+		]
+	}
 ]
