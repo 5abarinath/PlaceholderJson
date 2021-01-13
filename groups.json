@@ -1,7 +1,7 @@
 [
 	{
 		"groupName": "family",
-		"groupId": "1",
+		"groupId": 1,
 		"members": [
 			{
 				"name":"Sabari",
@@ -17,7 +17,7 @@
 	},
 	{
 		"groupName": "friends",
-		"groupId": "2",
+		"groupId": 2,
 		"members": [
 			{
 				"name": "Sughosh",
