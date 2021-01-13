@@ -1,6 +1,6 @@
 [
 	{
-		"groupName": "family",
+		"groupName": "Family",
 		"groupId": 1,
 		"members": [
 			{
@@ -16,7 +16,7 @@
 		]
 	},
 	{
-		"groupName": "friends",
+		"groupName": "Friends",
 		"groupId": 2,
 		"members": [
 			{
